@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@capacitor-community/contacts": "^5.0.5",
+  
     "@capacitor/cli": "^6.1.0",
-    "@capacitor/core": "^6.1.0",
+    "@capacitor/core": "^4.0.0",
+    "@capacitor-community/contacts": "^4.0.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
